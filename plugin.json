@@ -1,0 +1,20 @@
+{
+  "spec": "soksak-spec-plugin@0.0.1",
+  "id": "soksak-plugin-icons-tabler",
+  "name": "Tabler 아이콘",
+  "version": "0.0.1",
+  "repo": "https://github.com/soksak-ai/soksak-plugin-icons-tabler.git",
+  "description": "Tabler Icons 아이콘 셋(MIT, tabler.io/icons) — 활성화하면 설정 > 아이콘 셋에서 선택할 수 있습니다",
+  "entry": "main.js",
+  "permissions": [
+    "ui"
+  ],
+  "contributes": {
+    "iconSets": [
+      {
+        "id": "tabler",
+        "title": "Tabler Icons"
+      }
+    ]
+  }
+}
