@@ -3,13 +3,12 @@
   "id": "soksak-plugin-icons-tabler",
   "name": {
     "en": "Tabler Icons",
-    "ko": "Tabler 아이콘"
+    "ko": "Tabler \uc544\uc774\ucf58"
   },
   "version": "0.0.1",
-  "repo": "https://github.com/soksak-ai/soksak-plugin-icons-tabler.git",
   "description": {
-    "en": "Tabler Icons icon set (MIT, tabler.io/icons) — once enabled, select it under Settings > Icon Set.",
-    "ko": "Tabler Icons 아이콘 셋(MIT, tabler.io/icons) — 활성화하면 설정 > 아이콘 셋에서 선택할 수 있습니다"
+    "en": "Tabler Icons icon set (MIT, tabler.io/icons) \u2014 once enabled, select it under Settings > Icon Set.",
+    "ko": "Tabler Icons \uc544\uc774\ucf58 \uc14b(MIT, tabler.io/icons) \u2014 \ud65c\uc131\ud654\ud558\uba74 \uc124\uc815 > \uc544\uc774\ucf58 \uc14b\uc5d0\uc11c \uc120\ud0dd\ud560 \uc218 \uc788\uc2b5\ub2c8\ub2e4"
   },
   "entry": "main.js",
   "permissions": [
